@@ -1,5 +1,5 @@
 <template>
-	<div>风险监测</div>
+	<div>风险监测ceshi</div>
 </template>
 
 <script>
