@@ -1,0 +1,17 @@
+{
+    "presets": [
+        ["@babel/preset-env", {
+            "modules": false
+        }]
+    ],
+    // "plugins": ["element-ui", "view-design"]
+
+
+    "plugins": [
+
+        // ["import", {
+        //     "libraryName": "view-design",
+        //     "libraryDirectory": "src/components"
+        // }]
+    ]
+}
