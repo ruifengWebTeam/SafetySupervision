@@ -3,7 +3,11 @@ import VueRouter from 'vue-router'
 import Home from '@/views/Home.vue'
 import register from '@/views/register.vue'
 import login from '@/views/login.vue'
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 963e05e5888d8c07d3837ccf024e14db9d494590
 // 风险分布子系统 》风险监测
 import riskJc from '@/views/risk_distribution_subsystem/riskJc.vue'
 // 风险分布子系统 》风险分布

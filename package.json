@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "safetysupervision",
+=======
+  "name": "bili",
+>>>>>>> 963e05e5888d8c07d3837ccf024e14db9d494590
   "version": "0.1.0",
   "private": true,
   "scripts": {
